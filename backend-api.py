@@ -15,7 +15,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBfs8kjW7UYyVHLgq2Z76cBZ_e0gsg64pk"
+os.environ["GOOGLE_API_KEY"] = "Your_api_key"
 llm = ChatGoogleGenerativeAI(model="gemini-pro")
 gemini_embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
 parser = StrOutputParser()
