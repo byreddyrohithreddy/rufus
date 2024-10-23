@@ -1,0 +1,59 @@
+1.  Launch HN: GPT Driver (YC S21) â€“ End-to-end app testing in natural language
+
+2.  Adding row polymorphism to Damas-Hindley-Milner ( bernsteinbear.com )
+
+3.  The Incredible Machine (1968) [video] ( youtube.com )
+
+4.  Solving Sudoku in Python Packaging ( github.com/konstin )
+
+5.  The Global Surveillance Free-for-All in Mobile Ad Data ( krebsonsecurity.com )
+
+6.  Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku ( anthropic.com )
+
+7.  USGS uses machine learning to show large lithium potential in Arkansas ( usgs.gov )
+
+8.  Users say T-Mobile must pay for killing "lifetime" price lock ( arstechnica.com )
+
+9.  TCP Fast Open? Not so fast (2021) ( apnic.net )
+
+10.  Probably pay attention to tokenizers ( cybernetist.com )
+
+11.  The Dawn of a New Era for Supernova 1987a (2017) ( nasa.gov )
+
+12.  Carbon Sequestration by Recycling Cement, Aggregates, and Concrete ( mdpi.com )
+
+13.  Show HN: Open-source Counter-Strike-like game ( github.com/solcloud )
+
+14.  SuperHTML is here to rescue you from syntax errors, and it\'s FOSS ( theregister.com )
+
+15.  The Tragedy of Google Books (2017) ( theatlantic.com )
+
+16.  I got dysentery in a human challenge trial ( eukaryotewritesblog.com )
+
+17.  NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers ( newscatcherapi.com )
+
+18.  Comparing Auth from Supabase, Firebase, Auth.js, Ory, Clerk and Others ( hyperknot.com )
+
+19.  A new JSON data type for ClickHouse ( clickhouse.com )
+
+20.  Arm is canceling Qualcomm\'s chip design license ( bloomberg.com )
+
+21.  BazelCon 2024 Recap ( blogsystem5.substack.com )
+
+22.  Solving the Mystery of ARM7TDMI Multiply Carry Flag ( bmchtech.github.io )
+
+23.  How DRAM changed the world ( micron.com )
+
+24.  Don\'t use "click here" for link text ( dont-click-here.com )
+
+25.  Implementing Brainfuck in APL ( wilsonb.com )
+
+26.  Supporting Task Switching with Reinforcement Learning ( acm.org )
+
+27.  Show HN: I made tool for slicing up samples to Ableton Move presets ( github.com/alexfedosov )
+
+28.  Coreboot port for 486 motherboard (UM8881/6) ( github.com/pc2005cz )
+
+29.  An Illustrated Guide to Maritime Signal Flags ( rabbitwaves.ca )
+
+30.  Breaking Bad: How Compilers Break Constant-Time~Implementations ( arxiv.org )
