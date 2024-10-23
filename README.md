@@ -18,7 +18,8 @@ Rufus is a web scraping application that utilizes FastAPI for creating a web ser
 - A common challenge for any web search is not scraping the entire web associated with the website. To solve this, nested web link identification and extraction of information from all specified links are employed.
 - Identifying nested links and gathering information from all corners of the website is a general methodology, but it takes a lot of time to scrape. Larger websites require significantly more time to scrape.
 - BeautifulSoup was used as the web scraper, which utilizes HTTP requests for scraping. BeautifulSoup is a basic library for extracting website information but cannot load dynamic content from JavaScript.
-- In the future, advanced frameworks like Playwright or Scrapy will be employed for extracting dynamic content from websites and for efficient data searches for targeted information.
+- Aditionally also leveraged advanced frameworks like Playwright to extracting dynamic content from websites and for efficient data searches for targeted information.
+- To search links efficiently employed a LLM search framework for extracting relevant links to the prompt. To efficiently search the web.
   
 ## RAG application:
 - After compiling information from the websites, efficient search methodologies are deployed to extract relevant information based on the prompt. LLMs and RAG applications are used to facilitate efficient searches.
