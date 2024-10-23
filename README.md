@@ -140,3 +140,9 @@ The application uses the `logging` library to provide detailed logs for debuggin
 ## Conclusion
 
 Rufus is a powerful tool for web scraping, providing a simple yet effective way to extract information from webpages based on user-defined instructions. It leverages the capabilities of FastAPI and LangChain to create a robust solution for data extraction tasks.
+
+## References:
+- https://www.langchain.com/
+- https://fastapi.tiangolo.com/
+- https://escape.tech/blog/how-to-secure-fastapi-api/#:~:text=In%20FastAPI%2C%20you%20can%20implement,a%20specific%20route%20or%20endpoint.
+- https://github.com/byreddyrohithreddy/PDF-ChatBot
