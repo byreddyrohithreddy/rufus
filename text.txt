@@ -1,59 +1,30 @@
-1.  Launch HN: GPT Driver (YC S21) â€“ End-to-end app testing in natural language
-
-2.  Adding row polymorphism to Damas-Hindley-Milner ( bernsteinbear.com )
-
-3.  The Incredible Machine (1968) [video] ( youtube.com )
-
-4.  Solving Sudoku in Python Packaging ( github.com/konstin )
-
-5.  The Global Surveillance Free-for-All in Mobile Ad Data ( krebsonsecurity.com )
-
-6.  Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku ( anthropic.com )
-
-7.  USGS uses machine learning to show large lithium potential in Arkansas ( usgs.gov )
-
-8.  Users say T-Mobile must pay for killing "lifetime" price lock ( arstechnica.com )
-
-9.  TCP Fast Open? Not so fast (2021) ( apnic.net )
-
-10.  Probably pay attention to tokenizers ( cybernetist.com )
-
-11.  The Dawn of a New Era for Supernova 1987a (2017) ( nasa.gov )
-
-12.  Carbon Sequestration by Recycling Cement, Aggregates, and Concrete ( mdpi.com )
-
-13.  Show HN: Open-source Counter-Strike-like game ( github.com/solcloud )
-
-14.  SuperHTML is here to rescue you from syntax errors, and it\'s FOSS ( theregister.com )
-
-15.  The Tragedy of Google Books (2017) ( theatlantic.com )
-
-16.  I got dysentery in a human challenge trial ( eukaryotewritesblog.com )
-
-17.  NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers ( newscatcherapi.com )
-
-18.  Comparing Auth from Supabase, Firebase, Auth.js, Ory, Clerk and Others ( hyperknot.com )
-
-19.  A new JSON data type for ClickHouse ( clickhouse.com )
-
-20.  Arm is canceling Qualcomm\'s chip design license ( bloomberg.com )
-
-21.  BazelCon 2024 Recap ( blogsystem5.substack.com )
-
-22.  Solving the Mystery of ARM7TDMI Multiply Carry Flag ( bmchtech.github.io )
-
-23.  How DRAM changed the world ( micron.com )
-
-24.  Don\'t use "click here" for link text ( dont-click-here.com )
-
-25.  Implementing Brainfuck in APL ( wilsonb.com )
-
-26.  Supporting Task Switching with Reinforcement Learning ( acm.org )
-
-27.  Show HN: I made tool for slicing up samples to Ableton Move presets ( github.com/alexfedosov )
-
-28.  Coreboot port for 486 motherboard (UM8881/6) ( github.com/pc2005cz )
-
-29.  An Illustrated Guide to Maritime Signal Flags ( rabbitwaves.ca )
-
-30.  Breaking Bad: How Compilers Break Constant-Time~Implementations ( arxiv.org )
+1. Show HN: Agent.exe, a cross-platform app to let 3.5 Sonnet control your machine
+2. A DSL for peephole transformation rules of integer operations in the PyPy JIT
+3. Nix at work: FlakeHub Cache and private flakes
+4. Launch HN: GPT Driver (YC S21) – End-to-end app testing in natural language
+5. Probably pay attention to tokenizers
+6. What happens when you make a move in lichess.org?
+7. Parks on the Air
+8. My NumPy year: Creating a DType for the next generation of scientific computing
+9. Paper mills: the \'cartel-like\' companies behind fraudulent scientific journals
+10. Landowner Sues After State Searches Property Without Warrant or Consent
+11. Adding row polymorphism to Damas-Hindley-Milner
+12. Goldman and Apple \'illegally sidestepped\' obligations to credit-card customers
+13. The Incredible Machine (1968)
+14. Lars Tunbjörk documented the rise of alienating office work
+15. Taming the buck with a Type III compensator
+16. Show HN: I built a task manager that separates "do" and "due" dates
+17. Self-Documenting Code
+18. Species in Pieces
+19. Solving Sudoku in Python Packaging
+20. The Script Creator
+21. NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers
+22. Practical Jokes (2007)
+23. The Tragedy of Google Books (2017)
+24. The Dawn of a New Era for Supernova 1987a (2017)
+25. Reinforcement Learning: An Introduction (2018)
+26. The global surveillance free-for-all in mobile ad data
+27. The Maker of Ozempic Is Trying to Block Compounded Versions of Its Drug
+28. The brain collector: a scientist unravelling the mysteries of grey matter
+29. Show HN: Semantic Macros Text Editor
+30. TCP Fast Open? Not so fast (2021)
