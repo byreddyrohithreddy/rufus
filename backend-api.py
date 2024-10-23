@@ -16,7 +16,7 @@ from playwright.async_api import async_playwright
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
-os.environ["GOOGLE_API_KEY"] = "your_api_key"
+os.environ["GOOGLE_API_KEY"] = "Your_api_key"
 llm = ChatGoogleGenerativeAI(model="gemini-pro")
 gemini_embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
 parser = StrOutputParser()
